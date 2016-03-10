@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: pr2-repo-pr2
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, pr2-repo
+Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Package containing the sources.list and key for the pr2debs repository itself.
 Provides: ${diverted-files}
 Conflicts: ${diverted-files}
