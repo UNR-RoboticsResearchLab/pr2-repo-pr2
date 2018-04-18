@@ -1,4 +1,13 @@
-pr2-repo-pr2 (0.5.4-xenialubuntu1) UNRELEASED; urgency=medium
+pr2-repo-pr2 (0.5.4-xenialubuntu2~1.gbp3edb32) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @3edb3205be58b6fe6451afecd54fb0f6b55efb17 **
+
+  * updated ignores to reflect github repo; changed postinst for new ros packages location
+  * updated with new deb repo location at UNR
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Wed, 18 Apr 2018 16:24:47 -0700
+
+pr2-repo-pr2 (0.5.4-xenialubuntu1) xenial; urgency=medium
 
   [ TheDash ]
   * Changed repo
@@ -9,8 +18,10 @@ pr2-repo-pr2 (0.5.4-xenialubuntu1) UNRELEASED; urgency=medium
 
   [ David Feil-Seifer ]
   * updated ignores to reflect github repo; changed postinst for new ros packages location
+  * updated ignores to reflect github repo; changed postinst for new ros packages location
+  * updated with new deb repo location at UNR
 
- -- David Feil-Seifer <dave@cse.unr.edu>  Fri, 30 Mar 2018 16:31:54 -0700
+ -- David Feil-Seifer <dave@cse.unr.edu>  Wed, 18 Apr 2018 16:24:05 -0700
 
 pr2-repo-pr2 (0.5.4-xenial) stable; urgency=medium
 
