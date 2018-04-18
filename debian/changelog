@@ -1,9 +1,50 @@
+pr2-repo-pr2 (0.5.4-xenialubuntu1) UNRELEASED; urgency=medium
+
+  [ TheDash ]
+  * Changed repo
+  * Updated sources list
+
+  [ archielee ]
+  * Removed deprecated package pr2-repo as a dependency
+
+  [ David Feil-Seifer ]
+  * updated ignores to reflect github repo; changed postinst for new ros packages location
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Fri, 30 Mar 2018 16:31:54 -0700
+
+pr2-repo-pr2 (0.5.4-xenial) stable; urgency=medium
+
+  [ TheDash ]
+  * Changed repo
+  * Updated sources list
+
+  [ archielee ]
+  * Removed deprecated package pr2-repo as a dependency
+
+  [ David Feil-Seifer ]
+  * updated ignores to reflect github repo; changed postinst for new ros packages location
+
+  [ TheDash ]
+  * Changed repo
+  * Updated sources list
+
+  [ archielee ]
+  * Removed deprecated package pr2-repo as a dependency
+
+  [ David Feil-Seifer ]
+  * updated ignores to reflect github repo; changed postinst for new ros packages location
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Fri, 30 Mar 2018 16:26:40 -0700
+
 pr2-repo-pr2 (0.5.2-precise) stable; urgency=low
 
+  [ Jeremy Leibs ]
   * Incrementing to SVN: r581
    - r581: Moving all debs over to packages.ros.org
 
- -- Jeremy Leibs <leibs@willowgarage.com>  Tue, 11 Jan 2011 15:33:27 -0800
+  [ David Feil-Seifer ]
+
+ -- David Feil-Seifer <dave@cse.unr.edu>  Fri, 30 Mar 2018 16:24:01 -0700
 
 pr2-repo-pr2 (0.5.0-precise) stable; urgency=low
 

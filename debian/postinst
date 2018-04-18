@@ -7,7 +7,7 @@ case "$1" in
   configure)
         . /etc/lsb-release
         
-        echo "deb http://azrael.rd.unr.edu/pr2-packages/ubuntu ${DISTRIB_CODENAME} pr2" > /etc/apt/sources.list.d/pr2debspr2.list
+        echo "deb http://apt.cse.unr.edu/pr2 xenial ${DISTRIB_CODENAME} main" > /etc/apt/sources.list.d/pr2debspr2.list
     ;;
 
   *)
